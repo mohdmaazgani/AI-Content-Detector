@@ -1,4 +1,4 @@
-﻿**Free AI Content Detector**
+﻿**AI Content Detector**
 
 **Introduction**
 
