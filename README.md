@@ -1,4 +1,4 @@
-﻿**Free AI Content Detector**
+﻿**AI Content Detector**
 
 **Introduction**
 
@@ -18,18 +18,6 @@ The [**Free AI Content Detector**](https://www.freedetector.ai/) is an open-sour
 1. OpenCV
 1. NLTK
 1. Numpy
-
-You can install the Free AI Content Detector using pip:
-
-pip install ai-content-detector
-
-Or directly from the source code:
-
-git clone https://github.com/ctrlsbackup/freedetector.git
-
-cd ai-content-detector
-
-python setup.py install
 
 **Quick Start**
 
