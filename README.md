@@ -19,18 +19,6 @@ The [**Free AI Content Detector**](https://www.freedetector.ai/) is an open-sour
 1. NLTK
 1. Numpy
 
-You can install the Free AI Content Detector using pip:
-
-pip install ai-content-detector
-
-Or directly from the source code:
-
-git clone https://github.com/ctrlsbackup/freedetector.git
-
-cd ai-content-detector
-
-python setup.py install
-
 **Quick Start**
 
 **Here's a simple example of how to use the AI Content Detector:**
@@ -71,11 +59,4 @@ The Free AI Content Detector is licensed under the MIT License.
 
 If you encounter any problems or have suggestions, please file an issue on the Github project page.
 
-**Contact**
-
-Feel free to contact us. Please [**Visit Here**](https://www.freedetector.ai/contact)
-
-**Acknowledgments**
-
-We appreciate all our contributors who have helped make the Free AI Content Detector what it is today.
 
