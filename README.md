@@ -2,7 +2,7 @@
 
 **Introduction**
 
-The [**Free AI Content Detector**](https://www.freedetector.ai/) is an open-source project focused on analyzing and identifying various types of content using cutting-edge Artificial Intelligence technology. It can detect text, image, audio, and video content, making it a versatile tool for many applications. AI Content Detector is a powerful tool designed to identify AI-generated text. Using advanced Natural Language Processing (NLP) techniques, this detector helps distinguish between human-written and AI-generated content.
+The **Free AI Content Detector** is an open-source project focused on analyzing and identifying various types of content using cutting-edge Artificial Intelligence technology. It can detect text, image, audio, and video content, making it a versatile tool for many applications. AI Content Detector is a powerful tool designed to identify AI-generated text. Using advanced Natural Language Processing (NLP) techniques, this detector helps distinguish between human-written and AI-generated content.
 
 **Features**
 
@@ -45,5 +45,6 @@ We welcome contributions to the Free AI Content Detector!
 **Support**
 
 If you encounter any problems or have suggestions, please file an issue on the Github project page.
+
 
 
